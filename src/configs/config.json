@@ -1,0 +1,7 @@
+{
+  "mutiplos_dispositivos": true,
+  "chave_da_api": "23035ac4fc95334413e990cdbb5f6edc",
+  "nome_da_empresa": "Vedas Delivery",
+  "INTERVALO_EM_HORAS": 24,
+  "VEDAS_DELIVERY_SERVIDOR": "http://localhost:3333"
+}
